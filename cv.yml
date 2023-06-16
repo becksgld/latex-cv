@@ -1,0 +1,64 @@
+---
+name: Stonky Kong
+address: "69 Stonkus Street"
+city: "New York"
+state: "NY"
+postal: "10001"
+
+mobile: +1-646-420-6969
+email: stonkus.kongus@gmail.com
+website: magnumopus.dev 
+github: becksgld
+
+experience:
+- company: Company A 
+  title: Machine Learning Summoner
+  dates: "Aug 1919 -- Jan 1923"
+  location: "New York, NY"
+  details:
+    - 'Developed some super crazy reinforcement learning system that allows robots to walk and fight.'
+    - 'Created an implementation of some super sick algorithm with various policies using Numpy which became the prediction service of the reinforcement learning system.'
+    - 'Implemented an event driven architecture using Redis Queue and an artifical central neural system as opposed to a monolithic one which led to improved maintainability and scalability as well as the improved latency for signals.'
+    - 'Developed producers and consumers and deployed them as AWS lambda functions that communicated with each other via a Kinesis message stream which improved the monitoring of the system and service uptime.'  
+    - 'Implemented containerization strategies using Kubernetes and Docker to create a deployment environment that resulted in enhanced scalability, performance, and reliability of the reinforcement learning system.'
+
+- company: Company B
+  title: Consultant Data Scientist 
+  dates: "Feb 1019 -- Jul 1019"
+  location: "Nueva Stadt, Northern Americus"
+  details:
+    - 'Trained and deployed AI for BIG DATA that made the Corporation and the CEO a ton of money and increased the profitability by 1000000000%.'
+    - 'Developed pipelines for data preprocessing, feature engineering, and model training that aggregated data from various internal sources and 3rd party APIs using Airflow.' 
+    - 'Helped building the pyramids by programming IoT devices and increasing the efficiency of sacrificial rituals.'
+
+
+- company: Gilgamesh Corp.
+  title: Scribe Trainee 
+  dates: "Arah Nisanu 2400 BC - Arah Sabatu 2398 BC"
+  location: "Babylon, Iraq"
+  details:
+    - 'Trained and deployed a natural language processing model for analysis of the social data from the clay tablets using BERT language model.'
+    - 'Developed a formula for equally splitting the land among 5 citizens that were of a unique shape by introducing a new algebraic procedure for finding the areas of the shapes that were composing the shape of the land disputed. As a result happy citizens and advancement of maths. '
+    - 'Created a service for extracting unstructured data form various tables regarding our mythology and storing it on rock tablets to preserve the data for future generations and make the data storage mechanism ACID compliant.'
+
+education:
+- institution: "University of Thads"
+  degree: "Magician Physicist"
+  dates: "3006 BC -- 3000 BC"
+
+- institution: "University of Chads"
+  degree: "B.S.  Mathematics and Physics"
+  dates: "3010 BC -- 3007 BC"
+
+
+
+technologies:
+- languages: "Python, C / C++, Lua, JavaScript, TypeScript, SQL, Solidity, Enochian, Mathematics"
+  libraries: "PyTorch, Scikit-learn, Flask, Pandas, Numpy, Tensorflow, SQLAlchemy, MLFlow, FastAPI"
+  tools: "Git, GNU/Linux, Docker, AWS, Airflow, NoSQL, Apache Flume, AWS Kinesis, Kafka, NodeJS, Elasticsearch, Redis, 0MQ, GraphQL, Square, Compasses, Level, Plumb"
+  
+
+formatting:
+  font: Noto Sans
+  size: 11
+---
